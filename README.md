@@ -5,6 +5,7 @@ FitFuel is an advanced meal tracking and nutrition management application that l
 ## 🌟 Features
 
 ### Core Functionality
+
 - **AI-Powered Meal Analysis**
   - Real-time meal photo analysis using advanced computer vision
   - Ingredient recognition with 95%+ accuracy
@@ -15,6 +16,7 @@ FitFuel is an advanced meal tracking and nutrition management application that l
   - Offline analysis capabilities
 
 ### Smart Menu Planning
+
 - **Personalized Menu Generation**
   - AI-driven menu suggestions based on preferences and history
   - Comprehensive dietary preference handling:
@@ -30,6 +32,7 @@ FitFuel is an advanced meal tracking and nutrition management application that l
   - Seasonal ingredient adaptation
 
 ### Health Tracking
+
 - **Comprehensive Statistics**
   - Detailed meal compliance tracking with insights
   - Advanced nutritional intake analysis:
@@ -46,6 +49,7 @@ FitFuel is an advanced meal tracking and nutrition management application that l
   - Export capabilities for healthcare providers
 
 ### Smart Watch Integration
+
 - **Wearable Device Support**
   - Apple Watch Features:
     - Real-time meal reminders
@@ -68,6 +72,7 @@ FitFuel is an advanced meal tracking and nutrition management application that l
   - Battery-efficient background syncing
 
 ### Price Optimization
+
 - **Smart Shopping**
   - Real-time price comparison across stores
   - Integration with major supermarket chains:
@@ -89,6 +94,7 @@ FitFuel is an advanced meal tracking and nutrition management application that l
 ## 🛠 Technical Architecture
 
 ### Backend
+
 - **AI Services**
   - LLM Integration:
     - GPT-4 for natural language understanding
@@ -131,6 +137,7 @@ FitFuel is an advanced meal tracking and nutrition management application that l
     - Deal detection
 
 ### Mobile Apps
+
 - **iOS**
   - SwiftUI Framework:
     - Custom components
@@ -178,8 +185,10 @@ FitFuel is an advanced meal tracking and nutrition management application that l
 ## 🚀 Getting Started
 
 ### For Users
+
 The FitFuel app will be available for download through:
-- **iOS**: 
+
+- **iOS**:
   - Apple App Store
   - Requires iOS 15.0 or later
   - Compatible with iPhone, iPad, and Apple Watch
@@ -195,6 +204,7 @@ The FitFuel app will be available for download through:
 ### For Developers
 
 #### Prerequisites
+
 - Git 2.30+
 - Python 3.9+ with pip and venv
 - Xcode 14+ with latest iOS SDK
